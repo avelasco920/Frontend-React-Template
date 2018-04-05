@@ -7,4 +7,4 @@ This template is a frontend build using the following:
 + Babel
 + ES6
 
-Fork then open index.html in your browser :) Happy coding.
+Fork it, run `npm install`, `npm start`, then open index.html in your browser :) Happy coding.
